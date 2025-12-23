@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Inventory V1",
+    "image": "https://tonsite.com/inventory.png",
+    "url": "/package/123456",
+    "price": "€9.99"
+  },
+  {
+    "name": "Advanced Mapping",
+    "image": "https://tonsite.com/mapping.png",
+    "url": "/package/654321",
+    "price": "€14.99"
+  },
+  {
+    "name": "Core Script",
+    "image": "https://tonsite.com/core.png",
+    "url": "/package/987654",
+    "price": "€19.99"
+  }
+]
